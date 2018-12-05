@@ -1,5 +1,5 @@
 <?php
-$msgtoto = "[!] tidak di ijinkan"."\n"."[!] menjual skrip ini kepada siapapun"."\n"."[!] msg by adi digitizer";
+$msgtoto = "[!] không được phép"."\n"."[!] menjual skrip ini kepada siapapun"."\n"."[!] msg by adi digitizer";
 $msgyd = "[!] enjoy your life";
 $msgwe = "[!] enjoy your life";
 
