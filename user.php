@@ -1,5 +1,5 @@
 <?php
-$msgtoto = "[!] Chào bạn"."\n"."[!] Bạn đang sử dụng tools Toto"."\n"."[!] Chia sẻ bởi PGV";
+$msgtoto = "[!] Chào bạn"."\n"."[!] Bạn đang sử dụng tools Toto"."\n"."[!] Việt hoá bởi PGV";
 $msgyd = "[!] enjoy your life";
 $msgwe = "[!] enjoy your life";
 
