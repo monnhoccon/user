@@ -1,6 +1,5 @@
 <?php
-$msgtoto = "[!] không được phép"."\n"."[!] 
-bán kịch bản này cho bất kỳ ai"."\n"."[!] Test!";
+$msgtoto = "[!] Chào bạn"."\n"."[!] Bạn đang sử dụng tools Toto"."\n"."[!] Chia sẻ bởi PGV";
 $msgyd = "[!] enjoy your life";
 $msgwe = "[!] enjoy your life";
 
