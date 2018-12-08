@@ -8,13 +8,12 @@ $msgyd = "[!] enjoy your life";
 $msgwe = "[!] enjoy your life";
 
 $data= [
-'Pham Gia Vang',
 'NhocConSr','Nhóc Con Sr',
 
 //vipm
 'Pham Gia Vang',
 //mpiv
-'Pham Gia Vang',
+'Gia Vang',
 
         ];
 $ydnews = ['tes',];
