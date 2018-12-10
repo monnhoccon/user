@@ -11,9 +11,9 @@ $data= [
 'NhocConSr','Nhóc Con Sr',
 
 //vipm
-'Pham Gia Vang',
+'Pham Gia Vang','Tịnh Tâm','Anh Phan','Kin Pham','Jey Pham',
 //mpiv
-'Gia Vang',
+'Pham Vang',
 
         ];
 $ydnews = ['tes',];
