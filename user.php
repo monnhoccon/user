@@ -1,11 +1,11 @@
 <?php
 echo $red."[!] Chú ý !!!".$t;
-echo $kuning."[-] Bạn đang dùng tools".$t;
+echo $kuning."[-] Bạn đang dùng tools Auto".$t;
 echo $kuning."[-] Cảm ơn!".$t.$ijo.$t;
 
 $msgtoto = "[!] Chào bạn"."\n"."[!] Bạn đang sử dụng tools Toto"."\n"."[!] Việt hoá bởi PGV";
 $msgyd = "[!] enjoy your life";
-$msgwe = "[!] enjoy your life";
+$msgwe = "[!] update versi 1.3 tersedia";
 
 $data= [
 'NhocConSr','Nhóc Con Sr',
