@@ -6,6 +6,7 @@ echo $kuning."[-] Cảm ơn!".$t.$ijo.$t;
 $msgtoto = "[!] Chào bạn"."\n"."[!] Bạn đang sử dụng tools Toto"."\n"."[!] Việt hoá bởi PGV";
 $msgyd = "[!] enjoy your life";
 $msgwe = "[!] update versi 1.3";
+$msgveeu = "[!] enjoy your life";
 
 $data= [
 'NhocConSr','Nhóc Con Sr',
