@@ -1,9 +1,9 @@
 <?php
 echo $red."[!] Chú ý !!!".$t;
 echo $kuning."[-] Bạn đang dùng tools Auto".$t;
-echo $kuning."[-] Cảm ơn!".$t.$ijo.$t;
+echo $kuning."[-] Chúc bạn kiếm được nhiều xèng!".$t.$ijo.$t;
 
-$msgtoto = "[!] Chào bạn"."\n"."[!] Bạn đang sử dụng tools Toto"."\n"."[!] Việt hoá bởi PGV";
+$msgtoto = "[!] Chào bạn"."\n"."[!] Bạn đang sử dụng tools Auto Toto"."\n"."[!] Việt hoá bởi PGV";
 $msgyd = "[!] enjoy your life";
 $msgwe = "[!] update versi 1.3";
 $msgveeu = "[!] enjoy your life";
