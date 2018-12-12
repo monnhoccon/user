@@ -12,7 +12,7 @@ $data= [
 'NhocConSr','Nhóc Con Sr',
 
 //vipm
-'Pham Gia Vang','Tịnh Tâm','Anh Phan','Kin Pham','Jey Pham',
+'Pham Gia Vang','Tịnh Tâm','Anh Phan','Kin Pham','Jey Pham','Chim Kut',
 //mpiv
 'Pham Vang',
 
