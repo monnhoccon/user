@@ -14,7 +14,7 @@ $data= [
 //vipm
 'Pham Gia Vang','Tịnh Tâm','Anh Phan','Kin Pham','Jey Pham','Chim Kut',
 //mpiv
-'Pham Vang','Kute AV','Vang Pham','info yeumobile',
+'Pham Vang','Kute AV','Vang Pham','info yeumobile','Kay Vang',
 
         ];
 $toto = ['tes',];
