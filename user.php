@@ -15,7 +15,7 @@ $data= [
 'Pham Gia Vang','Tịnh Tâm','Anh Phan','Kin Pham','Jey Pham','Chim Kut',
 //mpiv
 'Pham Vang','Kute AV','Vang Pham','info yeumobile','Kay Vang','Japan Muzik',
-
+'Con Nhoc',
         ];
 $toto = ['tes',];
 $ydnews = ['tes','premium',];
