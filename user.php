@@ -9,7 +9,7 @@ $msgwe = "[!] enjoy your life";
 $msgveeu = "[!] enjoy your life";
 
 $data= [
-'NhocConSr','Nhóc Con Sr','Nguyễn Thanh Thiên','Trương Thông','Nguyễn Thanh Quang','Trương Thị Hồng','Trương Hồng',
+'NhocConSr','Nhóc Con Sr','Nguyễn Thanh Thiên','Thông Trương','Nguyễn Thanh Quang','Trương Thị Hồng','Trương Hồng',
 
 //vipm
 'Pham Gia Vang','Tịnh Tâm','Anh Phan','Kin Pham','Jey Pham','Chim Kut',
