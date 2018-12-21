@@ -3,7 +3,7 @@ echo $red."[!] Chú ý !!!".$t;
 echo $kuning."[-] Bạn đang dùng tools Auto".$t;
 echo $kuning."[-] Chúc bạn kiếm được nhiều xèng!".$t.$ijo.$t;
 $ads= $putih."[÷]  Kênh Youtube    [÷]".$t.$ijo."[-] PGV ".$putih."| NhocCon.Sr |".$ijo." phamgiavang [-]";
-$msgtoto = "[!] App có update mới "."\n"."[!] Tool auto tạm thời không hoạt động";
+$msgtoto = "[!] App có update mới "."\n"."[!] Tạm thời không được chạy tools nhé!!";
 $msgyd = "[!] update [v.1.2] ! Check Youtube Channel";
 $msgwe = "[!] enjoy your life";
 $msgveeu = "[!] enjoy your life";
