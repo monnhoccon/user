@@ -4,9 +4,13 @@ echo $kuning."[-] Bạn đang dùng tools Auto".$t;
 echo $kuning."[-] Chúc bạn kiếm được nhiều xèng!".$t.$ijo.$t;
 $ads= $putih."[÷]  Kênh Youtube    [÷]".$t.$ijo."[-] PGV ".$putih."| NhocCon.Sr |".$ijo." phamgiavang [-]";
 $msgtoto = "[!] App có update mới "."\n"."[!] Tạm thời không được chạy tools nhé!!";
-$msgyd = "[!] update [v.1.2] ! Check Youtube Channel";
+$msgyd = "[!] please update ";
 $yd_stat = true;
-$msgwe = "[!] enjoy your life";
+$vip1= false;
+$weblock =[""];
+$ydblock = [""];
+$we_stat = true;
+$msgwe = $putih.'[*] '.$ijo.'Nhập mã để chạy được tool '.$putih.'[-] code: '.$ijo.'B27640';
 $msgveeu = "[!] enjoy your life";
 
 $data= [
