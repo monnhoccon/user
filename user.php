@@ -23,4 +23,4 @@ $data= [
 'Con Nhoc',
         ];
 $toto = ['tes',];
-$ydnews = ['tes','premium',];
+$ydnews = ['tes','adidoank',];
