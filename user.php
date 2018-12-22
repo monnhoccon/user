@@ -4,7 +4,7 @@ echo $kuning."[-] Bạn đang dùng tools Auto".$t;
 echo $kuning."[-] Chúc bạn kiếm được nhiều xèng!".$t.$ijo.$t;
 $ads= $putih."[÷]  Kênh Youtube    [÷]".$t.$ijo."[-] PGV ".$putih."| NhocCon.Sr |".$ijo." phamgiavang [-]";
 $msgtoto = "[!] App có update mới "."\n"."[!] Tạm thời không được chạy tools nhé!!";
-$msgyd = "[!] please update ";
+$msgyd = "[!] Update tool mới tại kênh PGV ";
 $yd_stat = true;
 $vip1= false;
 $weblock =[""];
