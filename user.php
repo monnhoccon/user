@@ -1,7 +1,7 @@
 <?php
 echo $red."[!] Chú ý !!!".$t;
 echo $kuning."[-] Bạn đang dùng tools Auto".$t;
-echo $kuning."[-] Chúc bạn kiếm được nhiều xèng!".$t.$ijo.$t;
+echo $kuning."[-] Nên cân nhắc khi sử dụng tools!".$t.$ijo.$t;
 $ads= $putih."[÷]  Kênh Youtube    [÷]".$t.$ijo."[-] PGV ".$putih."| NhocCon.Sr |".$ijo." phamgiavang [-]";
 $msgtoto = "[!] App có update mới "."\n"."[!] Tạm thời không được chạy tools nhé!!";
 $msgyd = "[!] Update tool mới tại kênh PGV ";
