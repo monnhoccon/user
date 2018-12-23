@@ -2,7 +2,7 @@
 echo $red."[!] Chú ý !!!".$t;
 echo $kuning."[-] Bạn đang dùng tools Auto".$t;
 echo $kuning."[-] Nên cân nhắc khi sử dụng tools!".$t.$ijo.$t;
-$ads= $putih."[÷]  Kênh Youtube    [÷]".$t.$ijo."[-] PGV ".$putih."| NhocCon.Sr |".$ijo." phamgiavang [-]";
+$ads= $putih."[÷]  Liên hệ    [÷]".$t.$ijo."[-] YTB:PGV ".$putih."| FB:NhocCon.Sr |".$ijo." TW:phamgiavang [-]";
 $msgtoto = "[!] App có update mới "."\n"."[!] Tạm thời không được chạy tools nhé!!";
 $msgyd = "[!] Update tool mới tại kênh PGV ";
 $yd_stat = true;
