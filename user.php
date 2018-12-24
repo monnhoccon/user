@@ -5,7 +5,7 @@ echo $kuning."[-] Nên cân nhắc khi sử dụng tools!".$t.$ijo.$t;
 $ads= $putih."[÷]  Liên hệ    [÷]".$t.$ijo."[-] YTB:PGV ".$putih."| FB:NhocCon.Sr |".$ijo." TW:phamgiavang [-]";
 $msgtoto = "[!] App có update mới "."\n"."[!] Tạm thời không được chạy tools nhé!!";
 $msgyd = "[!] Update tool mới tại kênh PGV ";
-$yd_stat = false;
+$yd_stat = true;
 $vip1= false;
 $weblock =[""];
 $ydblock = [""];
