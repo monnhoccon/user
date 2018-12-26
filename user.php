@@ -15,7 +15,7 @@ $msgveeu = "[!] enjoy your life";
 
 $data= [
 'NhocConSr','Nhóc Con Sr','Nguyễn Thanh Thiên','Thông Trương','Nguyễn Thanh Quang','Trương Thị Hồng','Trương Hồng','Trương Văn Thông',
-'Trí Nguyễn Thành',
+'Trí Nguyễn Thành','dep vk xinh',
 //vipm
 'Pham Gia Vang','Tịnh Tâm','Anh Phan','Kin Pham','Jey Pham','Chim Kut',
 //mpiv
