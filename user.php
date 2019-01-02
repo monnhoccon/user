@@ -17,7 +17,7 @@ $data= [
 'NhocConSr','Nhóc Con Sr','Nguyễn Thanh Thiên','Thông Trương','Nguyễn Thanh Quang','Trương Thị Hồng','Trương Hồng','Trương Văn Thông',
 'Trí Nguyễn Thành','dep vk xinh',
 //vipm
-'Pham Gia Vang','Tịnh Tâm','Anh Phan','Kin Pham','Jey Pham','Chim Kut',
+'Pham Gia Vang','Tịnh Tâm','Anh Phan','Kin Pham','Jey Pham','Chim Kut','Long Nguyen',
 //mpiv
 'Pham Vang','Kute AV','Vang Pham','info yeumobile','Kay Vang','Japan Muzik',
 'Con Nhoc',
