@@ -1,6 +1,6 @@
 <?php
 //author
-echo $red."[!] Chú ý !!!".$t;
+echo $red."[☆] Chú ý !!! [☆]".$t;
 echo $kuning."[-] Để sử dụng tools bạn cần nhập mật khẩu".$t;
 echo $kuning."[-] Liên hệ fb.com/NhocCon.Sr để lấy mật khẩu!".$t.$ijo.$r;
 
