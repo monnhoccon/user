@@ -8,7 +8,7 @@ $pass="6ef5973f82e23b824683a0700bbc9bef";
 $key="343b84cae40e59926dbcd24e313e3b0b";
 //Donate
 $donasi=false;
-$ads=$ijo.">> subcribe chanel adi bordir ".$t.
+$ads=$ijo.">> Subcribe channel Pham Gia Vang ".$t.
 //Data
 $data= [
 'Pham Gia Vang',
@@ -22,6 +22,6 @@ $wot=$pth."
     ____/|__/   ".$kn."       \____/   ".$ijo."      /_/     ".$pth."
 ========[ v 1.0 ][creator: adidoank]========".$t;
 $stat_wot=true;
-$msg_wot=$ijo."[•] enjoy your life";
+$msg_wot=$ijo."[•] Enjoy your life";
 
 ?>
