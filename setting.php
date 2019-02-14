@@ -10,5 +10,15 @@ $key="343b84cae40e59926dbcd24e313e3b0b";
 $data= [
 'Pham Gia Vang',
         ];
+$wot=$pth."
+    ___ Wheel __       __O_f__        _Trust__".$red."
+    __ |     / / ".$kn."      __  __ \ ".$ijo."      ___  __/".$red."
+    __ | /| / /  ".$kn."      _  / / / ".$ijo."      __  /   ".$red."
+    __ |/ |/ /  ".$kn."       / /_/ /  ".$ijo."      _  /    ".$red."
+    ____/|__/   ".$kn."       \____/   ".$ijo."      /_/     ".$pth."
+========[ v 1.0 ][creator: adidoank]========".$t;
+$stat_wot=false;
+$donasi=false;
+$msg_wot=$ijo."[•] enjoy your life";
 
 ?>
