@@ -6,10 +6,14 @@ echo $kuning."[-] Liên hệ fb.com/NhocCon.Sr để lấy mật khẩu!".$t.$ij
 
 $pass="6ef5973f82e23b824683a0700bbc9bef";
 $key="343b84cae40e59926dbcd24e313e3b0b";
-
+//Donate
+$donasi=false;
+$ads=$ijo.">> subcribe chanel adi bordir ".$t.
+//Data
 $data= [
 'Pham Gia Vang',
         ];
+//Wot
 $wot=$pth."
     ___ Wheel __       __O_f__        _Trust__".$red."
     __ |     / / ".$kn."      __  __ \ ".$ijo."      ___  __/".$red."
@@ -18,7 +22,6 @@ $wot=$pth."
     ____/|__/   ".$kn."       \____/   ".$ijo."      /_/     ".$pth."
 ========[ v 1.0 ][creator: adidoank]========".$t;
 $stat_wot=true;
-$donasi=false;
 $msg_wot=$ijo."[•] enjoy your life";
 
 ?>
