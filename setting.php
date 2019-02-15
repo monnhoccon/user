@@ -8,7 +8,7 @@ $pass="6ef5973f82e23b824683a0700bbc9bef";
 $key="343b84cae40e59926dbcd24e313e3b0b";
 //Donate
 $donasi=true;
-$ads=$ijo.">> Subcribe channel Pham Gia Vang ".$t.
+$quangcao=$ijo.">> Subcribe channel Pham Gia Vang ".$t.
 //Data
 $data= [
 'Pham Gia Vang',
