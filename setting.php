@@ -2,7 +2,7 @@
 //author
 echo $red."         [☆] Chú ý !!! [☆]".$t;
 echo $kuning."[-] Để sử dụng tools bạn cần nhập mật khẩu".$t;
-echo $kuning."[-] Tham gia nhóm https://t.me/ToolScriptPGV để lấy mật khẩu!".$t.$ijo.$r;
+echo $kuning."[-] Join Group https://t.me/ToolScriptPGV get password!".$t.$ijo.$r;
 
 $pass="6ef5973f82e23b824683a0700bbc9bef";
 $banner="34322b94ff4173cfb1cd1274cc886490";
