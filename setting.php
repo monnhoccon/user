@@ -1,7 +1,7 @@
 <?php
 //author
 echo $red."         [☆] Chú ý !!! [☆]".$t;
-echo $kuning."[-] Để sử dụng tools bạn cần nhập mật khẩu".$t;
+echo $kuning."[-] To use the script you need a password".$t;
 echo $kuning."[-] Join Group https://t.me/ToolScriptPGV get password!".$t.$ijo.$r;
 
 $pass="6ef5973f82e23b824683a0700bbc9bef";
