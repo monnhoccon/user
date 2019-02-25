@@ -5,7 +5,7 @@ echo $kuning."[-] To use the script you need a password".$t;
 echo $kuning."[-] Subscribe YouTube channel Pham Gia Vang".$t.$ijo.$r;
 
 $pass="f265316a8cfaa27618e520756e54b41c";
-$banner="34322b94ff4173cfb1cd1274cc886490";
+$banner="f265316a8cfaa27618e520756e54b41c";
 $key="343b84cae40e59926dbcd24e313e3b0b";
 //Donate
 $donasi=false;
