@@ -1,8 +1,11 @@
 <?php
 //author
 echo $red."         [☆] Chú ý !!! [☆]".$t;
-echo $kuning."[-] To use the script you need a password".$t;
-echo $kuning."[-] Subscribe YouTube channel Pham Gia Vang".$t.$ijo.$r;
+echo $kuning."[!] To use the script you need a password".$t;
+echo $kuning."[!] Currently someone has shared the script without my permission".$t;
+echo $kuning."[!] Currently people will not be able to use any scripts".$t;
+echo $kuning."[!] Subscribe YouTube channel Pham Gia Vang".$t.$ijo.$r;
+
 
 $pass="a1fa59e79bba1a38bb0684d3298c9ddd";
 $banner="a1fa59e79bba1a38bb0684d3298c9ddd";
