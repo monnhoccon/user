@@ -8,7 +8,7 @@ echo $kuning."[!] Subscribe YouTube channel Pham Gia Vang".$t.$ijo.$r;
 
 
 $pass="2858d2a013b60bd469d4f65e3b8e6452";
-$banner="545064a97ce800102f9115e9a813ad99";
+$banner="dd9987ddd2a360cd8c0e6d99172343bf";
 $key="343b84cae40e59926dbcd24e313e3b0b";
 //Donate
 $donasi=false;
@@ -17,15 +17,6 @@ $ads=$ijo.">> Subcribe channel Pham Gia Vang ".$t;
 $data= [
 'Pham Gia Vang',
         ];
-//Wot
-$wot=$pth."
-    ___ Wheel __       __O_f__        _Trust__".$red."
-    __ |     / / ".$kn."      __  __ \ ".$ijo."      ___  __/".$red."
-    __ | /| / /  ".$kn."      _  / / / ".$ijo."      __  /   ".$red."
-    __ |/ |/ /  ".$kn."       / /_/ /  ".$ijo."      _  /    ".$red."
-    ____/|__/   ".$kn."       \____/   ".$ijo."      /_/     ".$pth."
-========[ v 1.0 ][creator: adidoank]========".$t;
-$stat_wot=true;
-$msg_wot=$ijo."[•] Enjoy your life";
+
 
 ?>
