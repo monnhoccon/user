@@ -7,7 +7,7 @@ echo $kuning."[!] Currently people will not be able to use any scripts".$t;
 echo $kuning."[!] Subscribe YouTube channel Pham Gia Vang".$t.$ijo.$r;
 
 
-$pass="0a2d27e9449d4da407e61382ae289fde";
+$pass="2858d2a013b60bd469d4f65e3b8e6452";
 $banner="545064a97ce800102f9115e9a813ad99";
 $key="343b84cae40e59926dbcd24e313e3b0b";
 //Donate
