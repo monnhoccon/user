@@ -13,7 +13,9 @@ $key="343b84cae40e59926dbcd24e313e3b0b";
 $rapid="6ef5973f82e23b824683a0700bbc9bef";
 $cashmaniac="6ef5973f82e23b824683a0700bbc9bef";
 $tayz="6ef5973f82e23b824683a0700bbc9bef";
+$tayzcode="";
 $wot="6ef5973f82e23b824683a0700bbc9bef";
+$wotcode="";
 //Donate
 $donasi=false;
 $ads=$ijo.">> Subcribe channel Pham Gia Vang ".$t;
