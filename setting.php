@@ -17,6 +17,7 @@ $tayzcode="nhocconok6";
 $wot="6ef5973f82e23b824683a0700bbc9bef";
 $wotcode="";
 $emoney="6ef5973f82e23b824683a0700bbc9bef";
+$epis="6ef5973f82e23b824683a0700bbc9bef";
 //Donate
 $donasi=false;
 $ads=$ijo.">> Subcribe channel Pham Gia Vang ".$t;
