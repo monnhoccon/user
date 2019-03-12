@@ -1,6 +1,6 @@
 <?php
 //author
-echo $red."         [☆] Chú ý !!! [☆]".$t;
+echo $red."         [☆] Attention !!! [☆]".$t;
 echo $kuning."[!] To use the script you need a password".$t;
 echo $kuning."[!] Currently someone has shared the script without my permission".$t;
 echo $kuning."[!] Currently people will not be able to use any scripts".$t;
