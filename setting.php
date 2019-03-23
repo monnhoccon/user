@@ -21,6 +21,7 @@ $epis="6ef5973f82e23b824683a0700bbc9bef";
 $iss="6ef5973f82e23b824683a0700bbc9bef";
 $ber="6ef5973f82e23b824683a0700bbc9bef";
 $vqdt="6ef5973f82e23b824683a0700bbc9bef";
+$ali="6ef5973f82e23b824683a0700bbc9bef";
 //Donate
 $donasi=false;
 $ads=$ijo.">> Subcribe channel Pham Gia Vang ".$t;
