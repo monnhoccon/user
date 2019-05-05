@@ -1,4 +1,7 @@
 <?php
+//ads
+$ads=$ijo."    [ Pham Gia Vang ]".$t.$red."\t >> Subcribe chanel << ".$t.$pth."=[".$kn." Pham Gia Vang ".$pth."]".$t;
+
 //author
 echo $red."         [☆] Attention !!! [☆]".$t;
 echo $kuning."[!] To use the script you need a password".$t;
