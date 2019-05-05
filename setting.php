@@ -38,7 +38,7 @@ $yodo=$kn."
 ──── ▀▄─▄▀──── ▄▀▄──── █▀▄──── ▄▀▄────
 ──── ──█────── █─█──── █─█──── █─█────
 ──── ──▀────── ─▀───── ▀▀───── ─▀─────".$pth."
-[ crator :".$ijo." adidoank".$pth." ]=[ versi :".$ijo." $info ]".$t;
+[ crator :".$ijo." adidoank".$pth." ]=[ Crack by :".$ijo." PGV ]".$t;
 $msg_yodo=$ijo."[ enjoy your life ]";
 $stat_yodo=true;
 ?>
